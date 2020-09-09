@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TolgaGame?tab=repositories](https://github.com/TolgaGame?tab=repositories)
 
-- 💬 Ask me about **Hpyer Causal Development**
+- 💬 Ask me about **Hyper Causal Development**
 
 - 📫 How to reach me **tolga@tetagames.com**
 
