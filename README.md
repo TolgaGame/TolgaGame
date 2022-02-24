@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgagame" alt="tolgagame" /> </p>
 
-- 🔭 I’m currently working on **Hyper Casual Prototype - Teta Games**
+- 🔭 I’m currently working on **Hyper Casual Prototype**
 
 - 🌱 I’m currently learning **Unity , C#**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Hyper Causal Development**
 
-- 📫 How to reach me **tolga@tetagames.com**
+- 📫 How to reach me **tlgasimsek@hotmail.com**
 
 - ⚡ Fun fact **Playing Games**
 
