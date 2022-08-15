@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgagame" alt="tolgagame" /> </p>
 
-- 🔭 I’m currently working on **Hyper Casual Prototype**
+- 🔭 I’m currently working on **Hyper Casual and Casual Games**
 
 - 🌱 I’m currently learning **Unity , C#**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TolgaGame?tab=repositories](https://github.com/TolgaGame?tab=repositories)
 
-- 💬 Ask me about **Hyper Causal Development**
+- 💬 Ask me about **Unity Game Development**
 
 - 📫 How to reach me **tlgasimsek@hotmail.com**
 
