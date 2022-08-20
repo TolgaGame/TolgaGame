@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tolga</h1>
-<h3 align="center">A passionate Game Developer from Turkey</h3>
+<h3 align="center">A passionate Unity Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgagame" alt="tolgagame" /> </p>
 
