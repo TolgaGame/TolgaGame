@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Unity Game Development**
 
-- 📫 How to reach me **tlgasimsek@hotmail.com**
+- 📫 How to reach me **mail or Linkedin**
 
 - ⚡ Fun fact **Playing Games**
 
