@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgagame" alt="tolgagame" /> </p>
 
-- 🔭 I’m currently working on **Hyper Casual and Casual Games**
+- 🔭 I’m currently working on **Hybrid Casual and Casual Games**
 
 - 🌱 I’m currently learning **Unity , C#**
 
