@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgagame" alt="tolgagame" /> </p>
 
-- 🔭 I’m currently working on **Hybrid Casual and Casual Games**
+- 🔭 I’m currently working on **Unity - C# Projects ... Hybrid Casual and Casual Games**
 
-- 🌱 I’m currently learning **Unity , C#**
+- 🌱 I’m currently learning **Python, JavaScript, HTML, CSS**
 
 - 🤝 I’m looking for help with **algorithm and coding**
 
@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Unity Game Development**
 
-- 📫 How to reach me **mail or Linkedin**
+- 📫 How to reach me **Mail or Linkedin**
 
-- ⚡ Fun fact **Playing Games**
+- ⚡ Fun fact **Playing Games, Software Development**
 
 <p align="left"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="c" width="40" height="40"/><img  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></p>
 
