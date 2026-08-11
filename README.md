@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Unity - C# Projects ... Hybrid Casual and Casual Games**
 
-- 🌱 I’m currently learning **Python, C#, C++**
+- 🌱 I’m currently learning **.NET, ThreeJS ,C#, C++**
 
 - 🤝 I’m looking for help with **algorithm and coding**
 
