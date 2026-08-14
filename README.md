@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Mail or Linkedin**
 
-* 💰**SPONSOR** my work by sponsoring me — **your support helps me keep building and developing.**
+* 💰 **SUPPORT** my work by **sponsoring** me — **your support helps me keep building and developing.**
 
 <p align="left"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="c" width="40" height="40"/><img  <img src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img  <img src="https://binaryera.gallerycdn.vsassets.io/extensions/binaryera/be-python/2023.7.1/1690412854714/Microsoft.VisualStudio.Services.Icons.Default" alt="python" width="40" height="40"/>
 
