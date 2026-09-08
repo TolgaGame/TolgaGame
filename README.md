@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **Mail or Linkedin**
 
-* 💰 **SUPPORT** my work by **sponsoring** me — **your support helps me keep building and developing.**
 
 <div align="center">
 
