@@ -17,4 +17,9 @@
 
 * 💰 **SUPPORT** my work by **sponsoring** me — **your support helps me keep building and developing.**
 
-<p align="left"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="c" width="40" height="40"/><img  <img src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img  <img src="https://binaryera.gallerycdn.vsassets.io/extensions/binaryera/be-python/2023.7.1/1690412854714/Microsoft.VisualStudio.Services.Icons.Default" alt="python" width="40" height="40"/>
+
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=plastic&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
