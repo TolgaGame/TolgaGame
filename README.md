@@ -7,7 +7,7 @@
 
 * 👨‍💻 All of my projects are available at https://github.com/TolgaGame?tab=repositories
 
-* 💬 Stay tuned for **up-to-date, high-quality Unity and .NET projects**
+* 💬 Stay tuned and **follow** me for **up-to-date, high-quality Unity and .NET projects**
 
 * 📫 You can reach me for **sponsorship opportunities and custom projects**
 
