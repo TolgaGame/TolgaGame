@@ -3,17 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgagame" alt="tolgagame" /> </p>
 
-- 🔭 I’m currently working on **Unity - C# Projects ... Hybrid Casual and Steam Games**
+* 🔭 I’m currently working on **Unity - C# Projects ... Hybrid Casual and Steam Games**
 
-- 🌱 I’m currently learning **.NET, C#, Python**
+* 👨‍💻 All of my projects are available at https://github.com/TolgaGame?tab=repositories
 
-- 🤝 I’m looking for help with **algorithm and coding**
+* 💬 Stay tuned for **up-to-date, high-quality Unity and .NET projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TolgaGame?tab=repositories](https://github.com/TolgaGame?tab=repositories)
+* 📫 You can reach me for **sponsorship opportunities and custom projects**
 
-- 💬 Ask me about **Unity Game Development**
-
-- 📫 How to reach me **Mail or Linkedin**
 
 
 <div align="center">
