@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tolga</h1>
-<h3 align="center">A passionate Unity Game Developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgagame" alt="tolgagame" /> </p>
 
-* 🔭 I’m currently working on **Unity - C# Projects ... Hybrid Casual and Steam Games**
+*  ~ **8 Year Software Developtment Experience**
+*  ~ **8 Year Software Developtment Experience**
+*  ~ **8 Year Software Developtment Experience**
 
-* 👨‍💻 All of my projects are available at https://github.com/TolgaGame?tab=repositories
-
-* 💬 Stay tuned and **follow** me for **up-to-date, high-quality Unity and .NET projects**
-
-* 📫 You can reach me for **sponsorship opportunities and custom projects**
 
 
 
