@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgagame" alt="tolgagame" /> </p>
 
-*  ~ **8 Year Software Developtment Experience**
+*  ~ **8 Year Software Development Experience**
 *  ~ **Unity Advanced**
 *  ~ **.NET Advanced**
 
